@@ -3,3 +3,4 @@ node_modules/
 .vscode/
 coverage/
 package-lock.json
+node_modules/.cache/
